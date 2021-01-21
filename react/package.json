@@ -1,6 +1,6 @@
 {
   "name": "instagram-integration",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "apollo-client": "^2.6.8",
     "react": "^16.12.0",

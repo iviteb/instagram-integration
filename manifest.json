@@ -1,7 +1,7 @@
 {
   "name": "instagram-integration",
   "vendor": "iviteb",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "title": "Instagram Integration",
   "description": "Integrate Instagram Graph API to get latest posts and display on frontend",
   "mustUpdateAt": "2018-01-04",
